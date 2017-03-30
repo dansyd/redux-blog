@@ -1,5 +1,6 @@
 import { FETCH_POST } from '../actions/index';
 
+
 const INITIAL_STATE = { all: [], post: null };
 
 
